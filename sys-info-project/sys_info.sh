@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Version 1.1
 # Define the log file
 LOG_FILE="system_stats.log"
 
