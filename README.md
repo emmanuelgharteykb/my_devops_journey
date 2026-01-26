@@ -17,9 +17,10 @@ Welcome! This repository serves as a central hub documenting my transition into 
 ---
 
 ## 🛠 Skills Acquired
+* **Web Development:** HTML, CSS, JavaScript basics
 * **Version Control:** Git (Branching, Merging, History Management)
 * **Scripting:** Bash/Shell
-* **Cloud:** AWS S3
+* **Cloud:** AWS S3, EC2
 * **Documentation:** Technical writing with Markdown
 
 ---
